@@ -19,7 +19,7 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+![JsonPowerDB Home Page - Google Chrome 13-11-2021 22_07_43 (2)](https://user-images.githubusercontent.com/93997165/141651774-530a3ead-04de-4615-8a2a-041a62a66f0f.png)
 
 ![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
 
