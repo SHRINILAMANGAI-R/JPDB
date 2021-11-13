@@ -23,4 +23,4 @@
 
 ![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+![JsonPowerDB Home Page - Google Chrome 13-11-2021 22_19_25](https://user-images.githubusercontent.com/93997165/141652024-5abf2f0a-6647-4595-8843-e7bd39fbc442.png)
